@@ -4,20 +4,7 @@ layout: home
 parent: Deep Learning
 ---
 
-## Usage
-
-
-
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
-
-Just docker documentation. 
-
-
-## Installation 
-
-This is the command to launch the process: 
-```docker run <IMAGE_ID>```
-
+## TODO
 
 
 ----
