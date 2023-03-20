@@ -16,7 +16,7 @@ make run
 or the equivalent command lines: 
 ```
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve -c _config-local.yml
 ```
 
 ### Publish a page
