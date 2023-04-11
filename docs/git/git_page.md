@@ -1,11 +1,11 @@
 ---
-title: Git actions
+title: Git commands
 layout: home
-parent: Git commands
+has_children: true
+nav_order: 2
 ---
 
 ## TODO
-
 
 
 ----
