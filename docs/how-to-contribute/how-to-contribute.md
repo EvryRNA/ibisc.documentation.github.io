@@ -12,7 +12,7 @@ If you want to contribute, please follow theses steps:
 3. Do all the modifications you want on the `docs` directory. You should not modify other files unless there is a clear reason. 
 4. Check that the website runs locally and the page you added/modified displays as you wanted to. 
 5. Do a pull request to `website-deploy` branch, and wait until someone has verified your contribution. This is to ensure that the deployment branch has verified contents.
-6. Enjoy your changes on the website (it can take few minutes to be updated once the pull request has been accepted): [Website](https://ibisc-documentation.github.io/Ibisc.documentation.github.io)
+6. Enjoy your changes on the website (it can take few minutes to be updated once the pull request has been accepted): [Website](https://ibisc-documentation.github.io/ibisc.documentation.github.io/)
 
 
 ## Example

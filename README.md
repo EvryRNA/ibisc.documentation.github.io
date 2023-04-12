@@ -1,6 +1,6 @@
 # IBISC documentation
 
-Website accessible at the following [link](https://ibisc-documentation.github.io/Ibisc.documentation.github.io)
+Website accessible at the following [link](https://ibisc-documentation.github.io/ibisc.documentation.github.io/)
 
 This page is a documentation for technical aspects of the IBISC laboratory.
 
