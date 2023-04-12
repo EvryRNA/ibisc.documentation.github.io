@@ -22,6 +22,27 @@ bundle install
 bundle exec jekyll serve -c _config-local.yml
 ```
 
+You can also use Docker using:
+```
+make docker_start
+```
+or the equivalent command lines:
+```
+docker build -t ibisc_doc
+docker run -it -p 4000:4000 ibisc_doc
+```
+
+You can also use Docker using:
+```
+make docker_start
+```
+or the equivalent command lines:
+```
+docker build -t ibisc_doc
+docker run -it -p 4000:4000 ibisc_doc
+```
+
+
 ### Publish a page
 
 To publish a page or add a modification, you need to create a git branch. 
