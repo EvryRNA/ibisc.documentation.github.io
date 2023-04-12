@@ -97,6 +97,18 @@ If you have a Windows computer, it won't work. To run it Manually, use:
 bundle install
 bundle exec jekyll serve -c _config-local.yml
 ```
+
+You can also run it using Docker: 
+```
+make docker_start
+```
+or the equivalent command lines: 
+```
+docker build -t ibisc_doc .
+docker run -it -p 4000:4000 ibisc_doc
+```
+
+
 You can now see the changes in the address [localhost](127.0.0.1:4000). 
 
 You should see something like that: 
