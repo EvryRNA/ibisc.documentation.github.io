@@ -1,6 +1,5 @@
 title: IBISC documentation
 description: A starter template for the documentation of the laboratory
-theme: just-the-docs
 logo: /assets/images/logo.png
 url: https://ibisc-documentation.github.io
-  #remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
