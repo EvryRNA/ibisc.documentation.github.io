@@ -28,7 +28,6 @@ or the equivalent command lines:
 ```
 docker build -t ibisc_doc
 docker run -it -p 4000:4000 ibisc_doc
-
 ```
 
 ### Publish a page
