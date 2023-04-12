@@ -8,7 +8,7 @@ nav_order: 6
 
 If you want to contribute, please follow theses steps: 
 1. Ensure you are part of the [IBISC-Documentation organisation](https://github.com/IBISC-Documentation)
-2. Create a branch or fork the [repo](https://github.com/IBISC-Documentation/ibisc.documentation.github.io). As convention, please use `name-subject`. For instance, if my name is Lisa and I want to write a page on pytorch, create a branch names `lisa-pytorch`.
+2. Create a branch or fork the [repo](https://github.com/IBISC-Documentation/ibisc.documentation.github.io). As convention, please use `name-subject`. For instance, if my name is `Lisa` and I want to write a page on `pytorch`, create a branch named `lisa-pytorch`.
 3. Do all the modifications you want on the `docs` directory. You should not modify other files unless there is a clear reason. 
 4. Check that the website runs locally and the page you added/modified displays as you wanted to. 
 5. Do a pull request to `website-deploy` branch, and wait until someone has verified your contribution. This is to ensure that the deployment branch has verified contents.
