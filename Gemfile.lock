@@ -60,6 +60,8 @@ GEM
     rexml (3.2.5)
     rouge (4.0.1)
     safe_yaml (1.0.5)
+    sass-embedded (1.58.0-aarch64-linux-gnu)
+      google-protobuf (~> 3.21)
     sass-embedded (1.58.0-arm64-darwin)
       google-protobuf (~> 3.21)
     sass-embedded (1.58.0-x86_64-darwin)
@@ -72,6 +74,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  aarch64-linux
   arm64-darwin-21
   x86_64-darwin-19
   x86_64-darwin-22
