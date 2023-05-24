@@ -202,6 +202,7 @@ echo "Version 2" > a.txt
 ```
 It creates and commit a file, and then change the content. 
 - We can examine the state of the repo using :
+
 ```bash
 $ git status
 On branch main
